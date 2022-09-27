@@ -1,2 +1,2 @@
 # Resources
- A resource repo for my learners
+ A resource repo for technical learners
