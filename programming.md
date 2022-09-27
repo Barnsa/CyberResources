@@ -1,5 +1,7 @@
 # Programming Resources
 
+[Exercism](https://exercism.org/dashboard)
+
 ## Python programming
 
 [RealPython](https://realpython.com/)
