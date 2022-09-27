@@ -18,3 +18,6 @@
 [The Future of Cyberwarfare | Origins: The Journey of Humankind](https://www.youtube.com/watch?v=L78r7YD-kNw)
 [Dark Web Fighting Cybercrime Full Hacking Documentary](https://www.youtube.com/watch?v=PjfX4CjSVGE)
 [Cyber Defense: Military Training for Cyber Warfare](https://www.youtube.com/watch?v=rcDizlmjNQY)
+[hacker:HUNTER - Wannacry: The Marcus Hutchins Story - All 3 Chapters](https://www.youtube.com/watch?v=vveLaA-z3-o)
+[The Life of Hackers [Full Documentary]](https://www.youtube.com/watch?v=TVgJmAJsOeQ)
+[Hacker Documentary 2002 - Hacking group The Realm and Electron](https://www.youtube.com/watch?v=GcnkEPTy3QI)
