@@ -1,6 +1,6 @@
 # Programming Resources
 
-[Exercism](https://exercism.org/dashboard)
+[Exercism](https://exercism.org/dashboard)\
 
 ## Python programming
 
