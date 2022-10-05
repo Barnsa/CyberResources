@@ -23,3 +23,5 @@ Security+ practice test - David Seidl
 CompTIA security+ SYO-601 Certification guide - Ian Neil
 
 CompTIA security+ SYO-601 Study Guide - Mike Chapple & David Seidl
+    
+    
