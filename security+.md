@@ -18,6 +18,8 @@ Security+ practice test - David Seidl
 
 [Udemy - Dion's training Practice Exams & Simulated PBQs](https://www.udemy.com/course/security-601-exams/) 10% More difficult than the real exam
 
+[Udemy - CompTIA Security+ course and Exam](https://www.udemy.com/course/securityplus/)
+
 ***Books:***
 
 CompTIA security+ SYO-601 Certification guide - Ian Neil
